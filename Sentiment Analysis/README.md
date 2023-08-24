@@ -1,0 +1,2 @@
+# Sentiment Analysis of Silicon Valley Bank Collapse in March 2023
+For this project, I utilized Natural Language Processing to conduct sentiment analysis on news headlines regarding the Silicon Valley Bank Collapse in March 2023 using News API. The API call notebook demonstrates the data collecion process culminating in the creation of all_articlesupdated.csv. The sentiment analysis with dash.ipynb contains the NLP steps and an interactive dashboard made with JupyterDash and Bootstrap. 
